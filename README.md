@@ -20,12 +20,6 @@ Concludo: vitrine e área administrativa. O catálogo público e o painel usam a
 - Node.js 20.9 ou superior e npm.
 - Um projeto Supabase.
 
-Crie `.env.local` a partir de `.env.example` e preencha a URL e a chave pública anon antes de testar login. `.env.local` não deve ser versionado.
-
-```bash
-npm install
-npm run dev
-```
 
 ## Regras e decisões de negócio
 
